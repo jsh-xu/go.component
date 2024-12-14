@@ -1,4 +1,4 @@
-module go.component
+module github.com/jsh-xu/go.component
 
 go 1.23.2
 
